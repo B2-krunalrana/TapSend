@@ -1,0 +1,6 @@
+{
+  "name": "TapSend",
+  "description": "Send bulk personalized WhatsApp messages from CSV templates locally and securely.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
